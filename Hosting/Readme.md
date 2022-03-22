@@ -30,3 +30,19 @@ Dựa theo cách phân chia và nhu cầu sử dụng của người dùng mà h
 - VPS Server: Virtual Private Server - máy chủ ảo riêng là máy chủ được sinh ra bởi một máy chủ vật lý, máy chủ này dành cho những website có lượng truy cập trung bình từ 8000 - 100.000 lượt/ngày.
 - Shared Hosting: Chia sẻ Host, là gói host được sinh ra và thiết lập bởi một Delicated Server hoặc VPS. Hình thức này thực chất là việc chia nhỏ VPS hay Delicated đã được cài sẵn hệ điều hành và các ứng dụng web ra thành nhiều phần và cho thuê những phần nhỏ đó để người thuê có thể upload và chạy các website trên đó.
 - Cloud Hosting: Là một thuật ngữ mới ám chỉ dịch vụ Hosting vận hành trên công nghệ điện toán đám mây. Có cách vận hành giống như VPS và Delicated, chỉ khác là Cloud Hosting chạy trên các máy chủ Cloud. Là một công nghệ hiện đại, Cloud Hostig tạo ra tốc độ truy xuất nhanh hơn nhiều so với các loại web hosting thông thường, an toàn, bảo mật dữ liệu cao hơn.
+
+Các keywork phổ biến trong Hosting 
+
+- Hệ điều hành của máy chủ : hiện tại có hai loại OS thông dụng là Linux và Windows.
+  - Hosting Linux: là Hosting chuyên hỗ trợ ngôn ngữ lập trình PHP, Joomla, các mã nguồn mở…
+  - Hosting Windows: Hosting Windows chuyên hỗ trợ về ngôn ngữ lập trình ASP, ASP.Net, HTML …. vì các ngôn ngữ này chạy chuyên trên Hosting Windows nên khi load Web sẽ hỗ trợ tốt hơn. Hosting Windows có hỗ trợ ngôn ngữ PHP, nhưng chủ yếu vẫn là ASP, ASP.Net …
+- Dung lượng: Bộ nhớ lưu trữ cho phép bạn tải file lên host. Dung lượng càng lớn cho phép lượng thông tin tải lên host càng lớn
+- Băng thông: Là thông số chỉ dung lượng thông tin tối đa mà website được lưu chuyển qua lại mỗi tháng
+- PHP: Phiên bản php hỗ trợ
+- Max file: Số lượng file tối đa có thể upload lên host
+- RAM: Bộ nhớ đệm
+- Addon domain: Số lượng domain bạn có thể trỏ tới hosting
+- Subdomain: Số lượng tên miền phụ có thể tạo ra cho mỗi tên miền
+- Park domain: Số lượng tên miền có thể parking
+- Email accounts: Số lượng email đi kèm với hosting
+- FTP accounts: Số lượng FTP account bạn có thể tạo và dùng nó upload dữ liệu lên hosting
